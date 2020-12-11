@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Desarrollo_aplicaciones_Android</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="ejercicio_3">Ejercicio 3</string>
+    <string name="menos">-</string>
+    <string name="cinco">5:00</string>
+    <string name="mas">+</string>
+    <string name="comenzar">comenzar</string>
+    <string name="cafes">Cafes</string>
+    <string name="cafesTomar">0</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="navegador">Navegador</string>
+    <string name="aplicacion">Aplicacion</string>
+    <string name="direccion">Direccion web</string>
+    <string name="url" />
+    <string name="www_google_com">www.google.com</string>
+    <string name="titulo">Calcular primos</string>
+    <string name="numeroinicial" />
+    <string name="calcular">Calcular</string>
+
+</resources>
